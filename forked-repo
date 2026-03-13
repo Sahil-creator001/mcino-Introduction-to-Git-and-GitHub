@@ -1,0 +1,3 @@
+curl -s https://api.github.com/repos/Sahil-creator001/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clon
+e_url'
+https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
